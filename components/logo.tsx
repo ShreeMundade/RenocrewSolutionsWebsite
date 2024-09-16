@@ -22,7 +22,7 @@ export const Logo = () => {
         />
       </svg>
 
-      <span className="text-white font-bold">Proactiv</span>
+      <span className="text-white font-bold">Renocrew Solutions</span>
     </Link>
   );
 };

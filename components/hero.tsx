@@ -48,11 +48,11 @@ export const Hero = () => {
           as="h1"
           className="text-4xl md:text-4xl lg:text-8xl font-semibold max-w-6xl mx-auto text-center mt-6 relative z-10  py-6"
         >
-          Transform Your Marketing with Proactiv
+          Your Future, Our Focus: Innovative IT Solutions
         </Heading>
         <Subheading className="text-center mt-2 md:mt-6 text-base md:text-xl text-muted dark:text-muted-dark max-w-3xl mx-auto relative z-10">
-          Automate Campaigns, Engage Audiences, and Boost Lead Generation with
-          Our All-in-One Marketing Solution
+        Experience the power of a dedicated technology partner. 
+        Collaborate with our team to drive your business forward.
         </Subheading>
         <FeaturedImages
           textClassName="lg:text-left text-center"

@@ -5,21 +5,29 @@ import { motion } from "framer-motion";
 
 const navItems = [
   {
-    title: "Features",
-    link: "/features",
+    title: "Software Solutions",
+    link: "/softwaresolutions",
   },
   {
-    title: "Pricing",
-    link: "/pricing",
+    title: "IT Consulting",
+    link: "/itconsulting",
   },
 
   {
-    title: "Blog",
-    link: "/blog",
+    title: "API Integration",
+    link: "/APIIntegration",
   },
   {
-    title: "Contact",
-    link: "/contact",
+    title: "Cloud Services",
+    link: "/CloudServices",
+  },
+  {
+    title: "Careers",
+    link: "/careers",
+  },
+  {
+    title: "Software Solutions",
+    link: "/softwaresolutions",
   },
 ];
 
