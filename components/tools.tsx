@@ -41,7 +41,7 @@ export const Tools = () => {
       content: (
         <ImageContainer>
           <BlurImage
-            src="/second-backup.png"
+            src="/Cloud.png"
             alt="dashboard"
             height="1000"
             width="1000"
