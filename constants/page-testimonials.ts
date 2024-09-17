@@ -4,160 +4,82 @@ interface Testimonial {
   name: string;
   designation?: string;
 }
-
 export const testimonials: Testimonial[] = [
   {
-    name: "Manu Arora",
+    name: "Client A",
     quote:
-      "What a fantastic AI Proactiv AI is, I just love it. It has completely transformed the way I approach problems and develop solutions.",
+      "Shree and his team demonstrated exceptional Yardi expertise. They understood my needs as a novice Yardi administrator and anticipated future challenges before they even arose. Their communication and efficiency were top-notch, making the entire process seamless. I highly recommend them for Yardi projects.",
     src: "https://i.pravatar.cc/150?img=1",
-    designation: "Tech Innovator & Entrepreneur",
+    designation: "Yardi Administrator",
   },
   {
-    name: "Tyler Durden",
+    name: "Client B",
     quote:
-      "I made a soap with the help of AI, it was so easy to use. I'm so glad this happened because it revolutionized my entire business model and production process.",
+      "Working with Shree on the Mews API integration was a great experience. His dedication and technical skills were evident throughout the project. The final product exceeded expectations, and Shree was always available for questions and clarifications. Highly recommended!",
     src: "https://i.pravatar.cc/150?img=2",
-    designation: "Creative Director & Business Owner",
+    designation: "Tech Lead",
   },
   {
-    name: "Alice Johnson",
+    name: "Client C",
     quote:
-      "This AI has transformed the way I work! It's like having a brilliant assistant who knows exactly what I need before I even ask.",
+      "The Stripe payment integration was seamless, and Shree's technical skills shone through in delivering exactly what was required. Communication was prompt and professional. I would gladly work with him again on future projects.",
     src: "https://i.pravatar.cc/150?img=3",
-    designation: "Senior Software Engineer",
+    designation: "Payments Specialist",
   },
   {
-    name: "Bob Smith",
+    name: "Client D",
     quote:
-      "Absolutely revolutionary, a game-changer for our industry. It has streamlined our processes and enhanced our productivity dramatically.",
+      "Shrees team expertly handled our Oracle Opera PMS integration, exceeding our expectations. The integration not only streamlined our internal processes but also improved the guest experience. Their attention to detail and commitment were impressive, and the collaboration was a huge success.",
     src: "https://i.pravatar.cc/150?img=4",
-    designation: "Industry Analyst",
+    designation: "Hospitality Manager",
   },
   {
-    name: "Cathy Lee",
+    name: "Client E",
     quote:
-      "I can't imagine going back to how things were before this AI. It has not only improved my work efficiency but also my daily life.",
+      "Rohan from Shrees team did a fantastic job on the Stardekk integration. His ability to work with the API and deliver a smooth solution made the process effortless. The certification process was handled professionally, and everything worked perfectly on delivery.",
     src: "https://i.pravatar.cc/150?img=5",
-    designation: "Product Manager",
-  },
-  {
-    name: "David Wright",
-    quote:
-      "It's like having a superpower! This AI tool has given us the ability to do things we never thought were possible in our field.",
-    src: "https://i.pravatar.cc/150?img=6",
-    designation: "Research Scientist",
-  },
-  {
-    name: "Eva Green",
-    quote:
-      "The efficiency it brings is unmatched. It's a vital tool that has helped us cut costs and improve our end product significantly.",
-    src: "https://i.pravatar.cc/150?img=7",
-    designation: "Operations Director",
-  },
-  {
-    name: "Frank Moore",
-    quote:
-      "A robust solution that fits perfectly into our workflow. It has enhanced our team's capabilities and allowed us to tackle more complex projects.",
-    src: "https://i.pravatar.cc/150?img=8",
     designation: "Project Manager",
   },
   {
-    name: "Grace Hall",
+    name: "Client F",
     quote:
-      "It's incredibly intuitive and easy to use. Even those without technical expertise can leverage its power to improve their workflows.",
+      "Shree and his team were instrumental in our Azure cloud migration. Their in-depth knowledge of Azure services ensured a smooth and efficient process. They provided excellent guidance, making the transition seamless and stress-free. We couldn't have asked for better consultants.",
+    src: "https://i.pravatar.cc/150?img=6",
+    designation: "IT Manager",
+  },
+  {
+    name: "Client G",
+    quote:
+      "The cloud consultation services provided by Renocrew Solutions were outstanding. They helped us architect and deploy a robust multi-cloud strategy, utilizing both AWS and Azure. Their expertise in cloud infrastructure made the entire process flawless, ensuring our systems are highly scalable and secure.",
+    src: "https://i.pravatar.cc/150?img=7",
+    designation: "CTO",
+  },
+  {
+    name: "Client H",
+    quote:
+      "Shrees expertise in Yardi API integration helped us streamline our property management operations. The integration was smooth, and Shree’s team worked closely with us to ensure all functionalities were perfectly aligned with our business needs. Their professionalism and attention to detail were impressive.",
+    src: "https://i.pravatar.cc/150?img=8",
+    designation: "Property Management Director",
+  },
+  {
+    name: "Client I",
+    quote:
+      "We engaged Renocrew Solutions for Azure consultation, and the results were fantastic. They provided a clear roadmap, optimized our cloud resources, and significantly reduced our infrastructure costs. Their knowledge of the Azure ecosystem is unmatched, and their support was highly responsive throughout.",
     src: "https://i.pravatar.cc/150?img=9",
-    designation: "Marketing Specialist",
+    designation: "Cloud Operations Lead",
   },
   {
-    name: "Henry Ford",
+    name: "Client J",
     quote:
-      "It has saved us countless hours. Highly recommended for anyone looking to enhance their efficiency and productivity.",
+      "Shree's team handled our Yardi API integrations with incredible expertise. They enabled seamless connectivity between our systems, improving the overall efficiency of our operations. Their deep knowledge of Yardi made them the perfect partner for this project, and I would definitely recommend them for similar work.",
     src: "https://i.pravatar.cc/150?img=10",
-    designation: "Operations Analyst",
+    designation: "Real Estate Consultant",
   },
   {
-    name: "Ivy Wilson",
+    name: "Client K",
     quote:
-      "A must-have tool for any professional. It's revolutionized the way we approach problem-solving and decision-making.",
+      "The cloud consultation we received from Renocrew Solutions was top-tier. Their team was very knowledgeable and helped us establish a secure, scalable cloud environment. They provided insights that helped us leverage AWS and Azure efficiently, improving performance across all our cloud-based services.",
     src: "https://i.pravatar.cc/150?img=11",
-    designation: "Business Consultant",
-  },
-  {
-    name: "Jack Brown",
-    quote:
-      "The results are always impressive. This AI has helped us to not only meet but exceed our performance targets.",
-    src: "https://i.pravatar.cc/150?img=12",
-    designation: "Performance Manager",
-  },
-  {
-    name: "Kathy Adams",
-    quote:
-      "It helps us achieve what was once thought impossible. The AI's capabilities are groundbreaking and have opened new avenues for us.",
-    src: "https://i.pravatar.cc/150?img=13",
-    designation: "Innovation Lead",
-  },
-  {
-    name: "Leo Carter",
-    quote:
-      "Transformative technology with real impact. It has streamlined our operations and brought unprecedented efficiency to our processes.",
-    src: "https://i.pravatar.cc/150?img=14",
-    designation: "Technology Strategist",
-  },
-  {
-    name: "Mia Turner",
-    quote:
-      "It's simply revolutionary! The way it integrates with our existing systems and enhances them is nothing short of miraculous.",
-    src: "https://i.pravatar.cc/150?img=15",
-    designation: "Systems Integrator",
-  },
-  {
-    name: "Nathan Hill",
-    quote:
-      "The best investment we've made in years. It's not just a tool; it's a game-changer that has propelled our business forward.",
-    src: "https://i.pravatar.cc/150?img=16",
-    designation: "Investment Analyst",
-  },
-  {
-    name: "Olivia Scott",
-    quote:
-      "It consistently exceeds our expectations. Its adaptability and precision make it indispensable for our daily operations.",
-    src: "https://i.pravatar.cc/150?img=17",
-    designation: "Quality Assurance Manager",
-  },
-  {
-    name: "Peter White",
-    quote:
-      "A seamless integration into our daily tasks. It has enhanced our productivity and allowed us to focus on more strategic initiatives.",
-    src: "https://i.pravatar.cc/150?img=18",
-    designation: "Strategic Planner",
-  },
-  {
-    name: "Quinn Taylor",
-    quote:
-      "It's a game-changer for our business. The insights it provides are invaluable and have driven substantial growth for us.",
-    src: "https://i.pravatar.cc/150?img=19",
-    designation: "Growth Manager",
-  },
-  {
-    name: "Rachel Black",
-    quote:
-      "The support team is as impressive as the technology itself. They ensure we maximize the utility of the AI in our operations.",
-    src: "https://i.pravatar.cc/150?img=20",
-    designation: "Client Support Coordinator",
-  },
-  {
-    name: "Samuel Lee",
-    quote:
-      "It's the future, now. Adopting this AI has put us years ahead of the competition in terms of operational efficiency and innovation.",
-    src: "https://i.pravatar.cc/150?img=21",
-    designation: "Futurist",
-  },
-  {
-    name: "Tina Brooks",
-    quote:
-      "It has completely changed the way we operate. The AI's ability to analyze and optimize our processes is phenomenal.",
-    src: "https://i.pravatar.cc/150?img=22",
-    designation: "Process Analyst",
+    designation: "Cloud Solutions Architect",
   },
 ];

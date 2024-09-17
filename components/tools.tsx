@@ -18,14 +18,14 @@ export const Tools = () => {
   const content = [
     {
       icon: <IconMailForward className="h-8 w-8 text-secondary" />,
-      title: "Email Automation",
+      title: "Unlock Your Business Potential with ERPNext and Frappe Development Services",
       description:
-        "With our best in class email automation, you can automate your entire emailing process.",
+      "Our ERPNext and Frappe development services empower businesses to streamline operations, increase efficiency, and drive growth. With our expertise, you can leverage the benefits of these powerful tools to optimize your business processes and achieve your goals.",
       content: (
         <ImageContainer>
           <BlurImage
-            src="/first.png"
-            alt="dashboard"
+            src="/frappe.png"
+            alt="Frappe"
             height="1000"
             width="1000"
             className="w-full rounded-lg shadow-xl shadow-brand/[0.2]"
@@ -35,9 +35,9 @@ export const Tools = () => {
     },
     {
       icon: <IconSocial className="h-8 w-8 text-secondary" />,
-      title: "Cross Platform Marketing",
+      title: "Unlock the full potential of your business with our cloud consulting services.",
       description:
-        "With our cross platform marketing, you can reach your audience on all the platforms they use.",
+        "Our team of experts specializes in Azure, AWS, and Google GCP, providing tailored solutions to meet your unique business needs.",
       content: (
         <ImageContainer>
           <BlurImage
@@ -52,9 +52,9 @@ export const Tools = () => {
     },
     {
       icon: <IconTerminal className="h-8 w-8 text-secondary" />,
-      title: "Managed CRM",
+      title: "Transforming User Experiences Through Creative Design Solutions",
       description:
-        "With our managed CRM, you can manage your leads and contacts in one place.",
+        "We specialize in creating intuitive and visually appealing user interfaces that captivate and engage your audience. Our expert team of designers combines creativity with user-centric design principles to deliver exceptional experiences that leave a lasting impression.",
       content: (
         <ImageContainer>
           <BlurImage
@@ -69,9 +69,9 @@ export const Tools = () => {
     },
     {
       icon: <IconTerminal className="h-8 w-8 text-secondary" />,
-      title: "Apps Automation",
+      title: "Unlock the full potential of Yardi with our custom API integration solutions.",
       description:
-        "We have cloned zapier and built our very own apps automation platform.",
+        "Our technical consultation services for Yardi provide expert guidance to optimize your operations and maximize efficiency.",
       content: (
         <ImageContainer>
           <BlurImage
@@ -128,9 +128,10 @@ export const Tools = () => {
         <FeatureIconContainer className="flex justify-center items-center overflow-hidden">
           <IconTool className="h-6 w-6 text-cyan-500" />
         </FeatureIconContainer>
-        <Heading className="mt-4">Perfect set of tools</Heading>
+        <Heading className="mt-4">Understanding and Fulfilling Client Needs: The Key to Our Success</Heading>
         <Subheading>
-          Proactiv comes with perfect tools for the perfect jobs out there.
+        At Renocrew Solutions, we are dedicated to understanding what our clients want and delivering the best solutions to drive their businesses forward.
+        
         </Subheading>
       </div>
       <StickyScroll content={content} />

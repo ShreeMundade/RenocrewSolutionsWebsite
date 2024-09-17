@@ -38,11 +38,11 @@ export const Footer = () => {
     },
     {
       name: "LinkedIn",
-      href: "https://linkedin.com/in/manuarora28",
+      href: "https://www.linkedin.com/company/renocrew-solutions/",
     },
     {
       name: "GitHub",
-      href: "https://github.com/manuarora700",
+      href: "https://github.com/renocrewsolutions",
     },
   ];
   return (
@@ -53,7 +53,7 @@ export const Footer = () => {
             <div className="mr-4  md:flex mb-4">
               <Logo />
             </div>
-            <div>Copyright &copy; 2024 Proactiv INC</div>
+            <div>Copyright &copy; 2024 Renocrew Solutions LLP</div>
             <div className="mt-2">All rights reserved</div>
           </div>
           <div className="grid grid-cols-3 gap-10 items-start mt-10 md:mt-0">

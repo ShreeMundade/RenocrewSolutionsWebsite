@@ -12,13 +12,8 @@ const navItems = [
     title: "IT Consulting",
     link: "/itconsulting",
   },
-
   {
-    title: "API Integration",
-    link: "/APIIntegration",
-  },
-  {
-    title: "Cloud Services",
+    title: "Cloud Consulting",
     link: "/CloudServices",
   },
   {
@@ -26,8 +21,12 @@ const navItems = [
     link: "/careers",
   },
   {
-    title: "Software Solutions",
+    title: "Our Story",
     link: "/softwaresolutions",
+  },
+  {
+    title: "Blog",
+    link: "/blog",
   },
 ];
 
