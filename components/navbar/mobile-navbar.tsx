@@ -81,7 +81,10 @@ export const MobileNavbar = ({ navItems }: any) => {
             ))}
           </div>
           <div className="flex flex-row w-full items-start gap-2.5  px-8 py-4 ">
-            <Button>Contact Us</Button>
+            <Button onClick={() => window.open('https://outlook.office.com/bookwithme/user/1c2049e8dd614014b968daaa343f005b%40renocrewsolutions.com/meetingtype/09705449-c7ee-4131-b1b9-3e961b18baf2?anonymous', '_blank')}
+          >
+            
+            Contact Us</Button>
             <Button
               variant="simple"
               as={Link}

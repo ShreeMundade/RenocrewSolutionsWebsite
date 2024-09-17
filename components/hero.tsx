@@ -60,7 +60,9 @@ export const Hero = () => {
           showStars
         />
         <div className="flex items-center gap-4 justify-center my-10 relative z-10">
-          <Button className="flex space-x-2 items-center group !text-lg">
+          <Button className="flex space-x-2 items-center group !text-lg"
+          onClick={() => window.open('https://outlook.office.com/bookwithme/user/1c2049e8dd614014b968daaa343f005b%40renocrewsolutions.com/meetingtype/09705449-c7ee-4131-b1b9-3e961b18baf2?anonymous', '_blank')}
+        >
             <span>Book a demo</span>{" "}
             <HiArrowRight className="text-black group-hover:translate-x-1 stroke-[1px] h-3 w-3 mt-0.5 transition-transform duration-200" />
           </Button>
@@ -75,7 +77,7 @@ export const Hero = () => {
         >
           <Card rotate={rotate} translate={translate} scale={scale}>
             <Image
-              src={`/dashboard.png`}
+              src={`/frappe.png`}
               alt="hero"
               height={720}
               width={1400}

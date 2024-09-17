@@ -24,18 +24,16 @@ export const Features = () => {
         <FeatureIconContainer className="flex justify-center items-center overflow-hidden">
           <FaBolt className="h-6 w-6 text-cyan-500" />
         </FeatureIconContainer>
-        <Heading className="pt-4">Automate your social media</Heading>
+        <Heading className="pt-4">Transforming IT Solutions for Tomorrow</Heading>
         <Subheading>
-          Proactiv houses a rich set of features to automate your marketing
-          efforts across all social medias
+          Experience our comprehensive IT management, web marketing, SEO booster, and cloud computing services that drive your business forward.
         </Subheading>
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-2 py-10">
           <Card className="lg:col-span-2">
-            <CardTitle>Post to multiple platforms at once</CardTitle>
+            <CardTitle>Boost Your Online Presence</CardTitle>
             <CardDescription>
-              With our AI-powered platform, you can post to multiple platforms
-              at once, saving you time and effort.
+              With our AI-powered platform, Our web marketing and SEO booster services help you reach your target audience and increase your online visibility.
             </CardDescription>
             <CardSkeletonContainer>
               <SkeletonOne />
@@ -45,19 +43,18 @@ export const Features = () => {
             <CardSkeletonContainer className="max-w-[16rem] mx-auto">
               <SkeletonTwo />
             </CardSkeletonContainer>
-            <CardTitle>Analytics for everything</CardTitle>
+            <CardTitle>Efficient Cloud Solutions</CardTitle>
             <CardDescription>
-              Check analytics, track your posts, and get insights into your
-              audience.
+            Leverage the power of cloud computing to streamline your business operations and enhance scalability.
             </CardDescription>
           </Card>
           <Card>
             <CardSkeletonContainer>
               <SkeletonThree />
             </CardSkeletonContainer>
-            <CardTitle>Integrated AI</CardTitle>
+            <CardTitle>IT Management Services You Can Trust</CardTitle>
             <CardDescription>
-              Proactiv uses AI to help you create engaging content.
+            Streamline your operations with our expert IT management solutions designed for efficiency and growth.
             </CardDescription>
           </Card>
           <Card>
@@ -74,9 +71,9 @@ export const Features = () => {
             </CardDescription>
           </Card>
           <Card>
-            <CardSkeletonContainer>
+            {/* <CardSkeletonContainer>
               <SkeletonFive />
-            </CardSkeletonContainer>
+            </CardSkeletonContainer> */}
             <CardTitle>Know your audience</CardTitle>
             <CardDescription>
               Based on your audience, create funnels and drive more traffic.

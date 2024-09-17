@@ -58,7 +58,7 @@ export const Tools = () => {
       content: (
         <ImageContainer>
           <BlurImage
-            src="/fourth-backup.png"
+            src="/figma.png"
             alt="dashboard"
             height="1000"
             width="1000"
@@ -75,7 +75,7 @@ export const Tools = () => {
       content: (
         <ImageContainer>
           <BlurImage
-            src="/third.png"
+            src="/yardi.png"
             alt="dashboard"
             height="1000"
             width="1000"
