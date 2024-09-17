@@ -8,12 +8,12 @@ import { NavBar } from "@/components/navbar";
 import { Footer } from "@/components/footer";
 
 export const metadata: Metadata = {
-  title: "Proactiv - Social Media Automation | Aceternity Templates",
+  title: "Renocrew Solutions",
   description:
-    "Proactiv is an all in on marketing automation platform that handles emails, tasks tracking, social media management and everything in between.",
-  openGraph: {
-    images: ["https://proactiv-aceternity.vercel.app/banner.png"],
-  },
+    "We Build That's Why We Live",
+  // openGraph: {
+  //   images: ["https://proactiv-aceternity.vercel.app/banner.png"],
+  // },
 };
 
 export const viewport: Viewport = {

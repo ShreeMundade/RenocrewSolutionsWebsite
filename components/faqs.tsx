@@ -6,65 +6,61 @@ import { Heading } from "./heading";
 const questions = [
   {
     id: 1,
-    title: "What is Proactic?",
+    title: "What services does Renocrew Solutions offer?",
     description:
-      "Proactic is a social media marketing automation tool designed to help businesses streamline their social media efforts.",
+      "Renocrew Solutions offers a range of services, including IT Management, Web Marketing, SEO, Cloud Computing, ERPNext and Frappe development, Custom API Integrations, Yardi Technical Consultation, and cloud consulting services for Azure, AWS, and GCP.",
   },
   {
     id: 2,
-    title: "How does Proactic work?",
+    title: "What is Renocrew Solutions' approach to IT Management?",
     description:
-      "Proactic automates the process of scheduling, posting, and analyzing social media content across multiple platforms.",
+      "Renocrew Solutions takes a proactive approach to IT Management, ensuring that your IT infrastructure is optimized, secure, and scalable to meet your business's evolving needs.",
   },
   {
     id: 3,
-    title: "Which social media platforms does Proactic support?",
+    title: "How can Renocrew Solutions assist with cloud computing?",
     description:
-      "Proactic supports popular social media platforms such as Facebook, Twitter, Instagram, LinkedIn, and more.",
+      "We offer cloud consulting services for Azure, AWS, and GCP, helping businesses migrate to the cloud, manage their cloud environments, and leverage the benefits of cloud computing for scalability and efficiency.",
   },
   {
     id: 4,
-    title: "Can I schedule posts in advance with Proactic?",
+    title: "Does Renocrew Solutions offer SEO services?",
     description:
-      "Yes, Proactic allows you to schedule posts in advance, ensuring your content is published at the optimal times.",
+      "Yes, Renocrew Solutions provides SEO Booster services to improve your website’s search engine ranking and increase organic traffic, helping your business grow online visibility.",
   },
   {
     id: 5,
-    title: "Does Proactic provide analytics?",
+    title: "Can Renocrew Solutions help with ERPNext and Frappe development?",
     description:
-      "Proactic offers detailed analytics to help you track the performance of your social media campaigns and make data-driven decisions.",
+      "Absolutely. Renocrew Solutions specializes in ERPNext and Frappe development, offering tailored solutions to streamline your business processes and improve operational efficiency.",
   },
   {
     id: 6,
-    title: "Is Proactic suitable for small businesses?",
+    title: "What is Yardi Technical Consultation at Renocrew Solutions?",
     description:
-      "Yes, Proactic is designed to be user-friendly and scalable, making it suitable for businesses of all sizes.",
+      "Yardi Technical Consultation involves providing specialized services for Yardi, including custom report development, database management, and technical support for real estate and property management companies.",
   },
   {
     id: 7,
-    title: "Can I collaborate with my team on Proactic?",
+    title: "Does Renocrew Solutions provide custom API integrations?",
     description:
-      "Proactic includes collaboration features that allow team members to work together on social media campaigns.",
+      "Yes, we offer custom API integration services, enabling businesses to seamlessly connect various applications and systems for improved functionality and data flow.",
   },
   {
     id: 8,
-    title: "Does Proactic offer customer support?",
+    title: "What industries does Renocrew Solutions serve?",
     description:
-      "Yes, Proactic provides customer support to assist you with any questions or issues you may encounter.",
+      "Renocrew Solutions serves various industries, including real estate, accounting, technology, and finance, offering customized solutions to meet each industry's unique requirements.",
   },
   {
     id: 9,
-    title: "Is there a free trial available for Proactic?",
+    title: "How can I get in touch with Renocrew Solutions for support?",
     description:
-      "Proactic offers a free trial so you can explore its features and see how it can benefit your social media marketing efforts.",
+      "You can contact us via phone at (+91) 9588625216 or email us at support@renocrewsolutions.com for any inquiries or support needs.",
   },
-  {
-    id: 10,
-    title: "How can I get started with Proactic?",
-    description:
-      "To get started with Proactic, simply sign up on our website and follow the onboarding process to set up your account.",
-  },
+ 
 ];
+
 
 export const FAQs = () => {
   const [expanded, setExpanded] = useState(false);
