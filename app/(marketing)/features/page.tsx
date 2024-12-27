@@ -7,11 +7,11 @@ import { Tools } from "@/components/tools";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Features | Proactiv | Aceternity Templates",
+  title: "Renocrew Solutions | Innovative Marketing Strategies",
   description:
-    "Proactiv is an all in on marketing automation platform that handles emails, tasks tracking, social media management and everything in between.",
+    "Renocrew Solutions offers cutting-edge marketing strategies to enhance your business growth and online presence.",
   openGraph: {
-    images: ["https://proactiv-aceternity.vercel.app/banner.png"],
+    images: ["https://renocrew-solutions.com/banner.png"],
   },
 };
 

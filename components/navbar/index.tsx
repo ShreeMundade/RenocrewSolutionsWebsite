@@ -18,7 +18,7 @@ const navItems = [
   },
   {
     title: "Careers",
-    link: "/careers",
+    link: "https://renocrew-solutions-llp.breezy.hr/",
   },
   {
     title: "Our Story",
