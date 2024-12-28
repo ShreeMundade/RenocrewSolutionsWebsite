@@ -17,10 +17,10 @@
       "static/css/89efe67ea01a60f3.css",
       "static/chunks/5e22fd23-1eb8f260cb416fed.js",
       "static/chunks/7138-32b7c82158d9ee40.js",
-      "static/chunks/4868-58edd0bd42a74b10.js",
-      "static/chunks/8597-98ce1596fd4cc719.js",
+      "static/chunks/4868-0958013315c1f95c.js",
+      "static/chunks/8597-7a439f23908e2e05.js",
       "static/chunks/3120-3d30c1ba212225b1.js",
-      "static/chunks/app/layout-dafc8d7dcbdef9f7.js"
+      "static/chunks/app/layout-60801c555a0a2a5d.js"
     ],
     "/(auth)/register/page": [
       "static/chunks/webpack-7d5521686900c612.js",
@@ -28,9 +28,9 @@
       "static/chunks/7023-66abad573ba752bd.js",
       "static/chunks/main-app-a3806fa61bc3b98e.js",
       "static/chunks/7138-32b7c82158d9ee40.js",
-      "static/chunks/4868-58edd0bd42a74b10.js",
-      "static/chunks/8597-98ce1596fd4cc719.js",
-      "static/chunks/app/(auth)/register/page-a90437035168f90d.js"
+      "static/chunks/4868-0958013315c1f95c.js",
+      "static/chunks/8597-7a439f23908e2e05.js",
+      "static/chunks/app/(auth)/register/page-2aa1c3a7f2cc18ce.js"
     ],
     "/(marketing)/cloud-services/page": [
       "static/chunks/webpack-7d5521686900c612.js",
@@ -46,90 +46,6 @@
       "static/chunks/main-app-a3806fa61bc3b98e.js",
       "static/chunks/app/(marketing)/layout-17ba7a4b8e852a32.js"
     ],
-    "/(marketing)/services/page": [
-      "static/chunks/webpack-7d5521686900c612.js",
-      "static/chunks/fd9d1056-6c27ba014927187e.js",
-      "static/chunks/7023-66abad573ba752bd.js",
-      "static/chunks/main-app-a3806fa61bc3b98e.js",
-      "static/chunks/7138-32b7c82158d9ee40.js",
-      "static/chunks/8173-8309472a42f97c7e.js",
-      "static/chunks/4868-58edd0bd42a74b10.js",
-      "static/chunks/8597-98ce1596fd4cc719.js",
-      "static/chunks/192-a64dc373ab769346.js",
-      "static/chunks/3120-3d30c1ba212225b1.js",
-      "static/chunks/app/(marketing)/services/page-8de9f5e3b5457841.js"
-    ],
-    "/(marketing)/services/proptech-consulting/page": [
-      "static/chunks/webpack-7d5521686900c612.js",
-      "static/chunks/fd9d1056-6c27ba014927187e.js",
-      "static/chunks/7023-66abad573ba752bd.js",
-      "static/chunks/main-app-a3806fa61bc3b98e.js",
-      "static/chunks/7138-32b7c82158d9ee40.js",
-      "static/chunks/8173-8309472a42f97c7e.js",
-      "static/chunks/4868-58edd0bd42a74b10.js",
-      "static/chunks/8597-98ce1596fd4cc719.js",
-      "static/chunks/192-a64dc373ab769346.js",
-      "static/chunks/623-a32b8e57504c8249.js",
-      "static/chunks/app/(marketing)/services/proptech-consulting/page-fa729f823d503199.js"
-    ],
-    "/(marketing)/services/accounting-bookkeeping/page": [
-      "static/chunks/webpack-7d5521686900c612.js",
-      "static/chunks/fd9d1056-6c27ba014927187e.js",
-      "static/chunks/7023-66abad573ba752bd.js",
-      "static/chunks/main-app-a3806fa61bc3b98e.js",
-      "static/chunks/7138-32b7c82158d9ee40.js",
-      "static/chunks/8173-8309472a42f97c7e.js",
-      "static/chunks/4868-58edd0bd42a74b10.js",
-      "static/chunks/8597-98ce1596fd4cc719.js",
-      "static/chunks/192-a64dc373ab769346.js",
-      "static/chunks/3120-3d30c1ba212225b1.js",
-      "static/chunks/1263-ec383f8f44e1d1d2.js",
-      "static/chunks/app/(marketing)/services/accounting-bookkeeping/page-55fa582b396845c8.js"
-    ],
-    "/(marketing)/services/cloud-services/page": [
-      "static/chunks/webpack-7d5521686900c612.js",
-      "static/chunks/fd9d1056-6c27ba014927187e.js",
-      "static/chunks/7023-66abad573ba752bd.js",
-      "static/chunks/main-app-a3806fa61bc3b98e.js",
-      "static/chunks/7138-32b7c82158d9ee40.js",
-      "static/chunks/8173-8309472a42f97c7e.js",
-      "static/chunks/4868-58edd0bd42a74b10.js",
-      "static/chunks/8597-98ce1596fd4cc719.js",
-      "static/chunks/192-a64dc373ab769346.js",
-      "static/chunks/6057-f6c64db379e1a307.js",
-      "static/chunks/1263-ec383f8f44e1d1d2.js",
-      "static/chunks/app/(marketing)/services/cloud-services/page-49faaec573d465ce.js"
-    ],
-    "/(marketing)/services/virtual-cfo/page": [
-      "static/chunks/webpack-7d5521686900c612.js",
-      "static/chunks/fd9d1056-6c27ba014927187e.js",
-      "static/chunks/7023-66abad573ba752bd.js",
-      "static/chunks/main-app-a3806fa61bc3b98e.js",
-      "static/chunks/7138-32b7c82158d9ee40.js",
-      "static/chunks/8173-8309472a42f97c7e.js",
-      "static/chunks/4868-58edd0bd42a74b10.js",
-      "static/chunks/8597-98ce1596fd4cc719.js",
-      "static/chunks/192-a64dc373ab769346.js",
-      "static/chunks/3120-3d30c1ba212225b1.js",
-      "static/chunks/6057-f6c64db379e1a307.js",
-      "static/chunks/1263-ec383f8f44e1d1d2.js",
-      "static/chunks/app/(marketing)/services/virtual-cfo/page-1453100723431ee1.js"
-    ],
-    "/(marketing)/services/virtual-cto/page": [
-      "static/chunks/webpack-7d5521686900c612.js",
-      "static/chunks/fd9d1056-6c27ba014927187e.js",
-      "static/chunks/7023-66abad573ba752bd.js",
-      "static/chunks/main-app-a3806fa61bc3b98e.js",
-      "static/chunks/7138-32b7c82158d9ee40.js",
-      "static/chunks/8173-8309472a42f97c7e.js",
-      "static/chunks/4868-58edd0bd42a74b10.js",
-      "static/chunks/8597-98ce1596fd4cc719.js",
-      "static/chunks/192-a64dc373ab769346.js",
-      "static/chunks/3120-3d30c1ba212225b1.js",
-      "static/chunks/6057-f6c64db379e1a307.js",
-      "static/chunks/1263-ec383f8f44e1d1d2.js",
-      "static/chunks/app/(marketing)/services/virtual-cto/page-47ffdb17ebfb485a.js"
-    ],
     "/(marketing)/page": [
       "static/chunks/webpack-7d5521686900c612.js",
       "static/chunks/fd9d1056-6c27ba014927187e.js",
@@ -142,31 +58,86 @@
       "static/chunks/eec3d76d-8a9ed430bcf0df32.js",
       "static/chunks/53c13509-9d11e4848b73eab1.js",
       "static/chunks/8173-8309472a42f97c7e.js",
-      "static/chunks/4868-58edd0bd42a74b10.js",
-      "static/chunks/8597-98ce1596fd4cc719.js",
+      "static/chunks/4868-0958013315c1f95c.js",
+      "static/chunks/8597-7a439f23908e2e05.js",
       "static/chunks/192-a64dc373ab769346.js",
       "static/chunks/3120-3d30c1ba212225b1.js",
-      "static/chunks/6057-f6c64db379e1a307.js",
+      "static/chunks/6057-f6bf70b1dac8e3ef.js",
       "static/chunks/4662-87ffe199eca8eead.js",
       "static/chunks/1164-1530161612b3e5e5.js",
       "static/chunks/6779-4384e521c0dd2a1c.js",
-      "static/chunks/7910-e8fa7d6877a668e9.js",
+      "static/chunks/7910-2aa5c5a14baf1a10.js",
       "static/chunks/5906-736ddae72a88a4d4.js",
       "static/chunks/app/(marketing)/page-ed2913a0d9f7adea.js"
     ],
-    "/(marketing)/services/software-development/page": [
+    "/(marketing)/services/cloud-services/page": [
       "static/chunks/webpack-7d5521686900c612.js",
       "static/chunks/fd9d1056-6c27ba014927187e.js",
       "static/chunks/7023-66abad573ba752bd.js",
       "static/chunks/main-app-a3806fa61bc3b98e.js",
       "static/chunks/7138-32b7c82158d9ee40.js",
       "static/chunks/8173-8309472a42f97c7e.js",
-      "static/chunks/4868-58edd0bd42a74b10.js",
-      "static/chunks/8597-98ce1596fd4cc719.js",
+      "static/chunks/4868-0958013315c1f95c.js",
+      "static/chunks/8597-7a439f23908e2e05.js",
+      "static/chunks/192-a64dc373ab769346.js",
+      "static/chunks/6057-f6bf70b1dac8e3ef.js",
+      "static/chunks/1263-99a90c1fdc640c85.js",
+      "static/chunks/app/(marketing)/services/cloud-services/page-49faaec573d465ce.js"
+    ],
+    "/(marketing)/services/accounting-bookkeeping/page": [
+      "static/chunks/webpack-7d5521686900c612.js",
+      "static/chunks/fd9d1056-6c27ba014927187e.js",
+      "static/chunks/7023-66abad573ba752bd.js",
+      "static/chunks/main-app-a3806fa61bc3b98e.js",
+      "static/chunks/7138-32b7c82158d9ee40.js",
+      "static/chunks/8173-8309472a42f97c7e.js",
+      "static/chunks/4868-0958013315c1f95c.js",
+      "static/chunks/8597-7a439f23908e2e05.js",
       "static/chunks/192-a64dc373ab769346.js",
       "static/chunks/3120-3d30c1ba212225b1.js",
-      "static/chunks/6057-f6c64db379e1a307.js",
-      "static/chunks/app/(marketing)/services/software-development/page-3da10ae3ccba471d.js"
+      "static/chunks/1263-99a90c1fdc640c85.js",
+      "static/chunks/app/(marketing)/services/accounting-bookkeeping/page-55fa582b396845c8.js"
+    ],
+    "/(marketing)/services/page": [
+      "static/chunks/webpack-7d5521686900c612.js",
+      "static/chunks/fd9d1056-6c27ba014927187e.js",
+      "static/chunks/7023-66abad573ba752bd.js",
+      "static/chunks/main-app-a3806fa61bc3b98e.js",
+      "static/chunks/7138-32b7c82158d9ee40.js",
+      "static/chunks/8173-8309472a42f97c7e.js",
+      "static/chunks/4868-0958013315c1f95c.js",
+      "static/chunks/8597-7a439f23908e2e05.js",
+      "static/chunks/192-a64dc373ab769346.js",
+      "static/chunks/3120-3d30c1ba212225b1.js",
+      "static/chunks/app/(marketing)/services/page-224cc2c315851852.js"
+    ],
+    "/(marketing)/services/proptech-consulting/page": [
+      "static/chunks/webpack-7d5521686900c612.js",
+      "static/chunks/fd9d1056-6c27ba014927187e.js",
+      "static/chunks/7023-66abad573ba752bd.js",
+      "static/chunks/main-app-a3806fa61bc3b98e.js",
+      "static/chunks/7138-32b7c82158d9ee40.js",
+      "static/chunks/8173-8309472a42f97c7e.js",
+      "static/chunks/4868-0958013315c1f95c.js",
+      "static/chunks/8597-7a439f23908e2e05.js",
+      "static/chunks/192-a64dc373ab769346.js",
+      "static/chunks/623-942d92625e7a2e18.js",
+      "static/chunks/app/(marketing)/services/proptech-consulting/page-a0017a3cea954a3d.js"
+    ],
+    "/(marketing)/services/virtual-cfo/page": [
+      "static/chunks/webpack-7d5521686900c612.js",
+      "static/chunks/fd9d1056-6c27ba014927187e.js",
+      "static/chunks/7023-66abad573ba752bd.js",
+      "static/chunks/main-app-a3806fa61bc3b98e.js",
+      "static/chunks/7138-32b7c82158d9ee40.js",
+      "static/chunks/8173-8309472a42f97c7e.js",
+      "static/chunks/4868-0958013315c1f95c.js",
+      "static/chunks/8597-7a439f23908e2e05.js",
+      "static/chunks/192-a64dc373ab769346.js",
+      "static/chunks/3120-3d30c1ba212225b1.js",
+      "static/chunks/6057-f6bf70b1dac8e3ef.js",
+      "static/chunks/1263-99a90c1fdc640c85.js",
+      "static/chunks/app/(marketing)/services/virtual-cfo/page-1453100723431ee1.js"
     ],
     "/(marketing)/blog/cool-things-to-do-with-ai/page": [
       "static/chunks/webpack-7d5521686900c612.js",
@@ -177,6 +148,20 @@
       "static/chunks/8173-8309472a42f97c7e.js",
       "static/chunks/app/(marketing)/blog/cool-things-to-do-with-ai/page-1f83c9a51c61a540.js"
     ],
+    "/(marketing)/services/software-development/page": [
+      "static/chunks/webpack-7d5521686900c612.js",
+      "static/chunks/fd9d1056-6c27ba014927187e.js",
+      "static/chunks/7023-66abad573ba752bd.js",
+      "static/chunks/main-app-a3806fa61bc3b98e.js",
+      "static/chunks/7138-32b7c82158d9ee40.js",
+      "static/chunks/8173-8309472a42f97c7e.js",
+      "static/chunks/4868-0958013315c1f95c.js",
+      "static/chunks/8597-7a439f23908e2e05.js",
+      "static/chunks/192-a64dc373ab769346.js",
+      "static/chunks/3120-3d30c1ba212225b1.js",
+      "static/chunks/6057-f6bf70b1dac8e3ef.js",
+      "static/chunks/app/(marketing)/services/software-development/page-0aa4a356b598fab4.js"
+    ],
     "/(marketing)/blog/how-companies-are-working-without-ai/page": [
       "static/chunks/webpack-7d5521686900c612.js",
       "static/chunks/fd9d1056-6c27ba014927187e.js",
@@ -186,14 +171,20 @@
       "static/chunks/8173-8309472a42f97c7e.js",
       "static/chunks/app/(marketing)/blog/how-companies-are-working-without-ai/page-f2cb3e8f243f47c0.js"
     ],
-    "/(marketing)/blog/what-is-social-media-marketing/page": [
+    "/(marketing)/services/virtual-cto/page": [
       "static/chunks/webpack-7d5521686900c612.js",
       "static/chunks/fd9d1056-6c27ba014927187e.js",
       "static/chunks/7023-66abad573ba752bd.js",
       "static/chunks/main-app-a3806fa61bc3b98e.js",
       "static/chunks/7138-32b7c82158d9ee40.js",
       "static/chunks/8173-8309472a42f97c7e.js",
-      "static/chunks/app/(marketing)/blog/what-is-social-media-marketing/page-b782c779bfd392a8.js"
+      "static/chunks/4868-0958013315c1f95c.js",
+      "static/chunks/8597-7a439f23908e2e05.js",
+      "static/chunks/192-a64dc373ab769346.js",
+      "static/chunks/3120-3d30c1ba212225b1.js",
+      "static/chunks/6057-f6bf70b1dac8e3ef.js",
+      "static/chunks/1263-99a90c1fdc640c85.js",
+      "static/chunks/app/(marketing)/services/virtual-cto/page-47ffdb17ebfb485a.js"
     ],
     "/(marketing)/blog/changelog-for-2024/page": [
       "static/chunks/webpack-7d5521686900c612.js",
@@ -213,6 +204,15 @@
       "static/chunks/8173-8309472a42f97c7e.js",
       "static/chunks/app/(marketing)/blog/top-5-llm-of-all-time/page-9ab885d2ff04da15.js"
     ],
+    "/(marketing)/blog/what-is-social-media-marketing/page": [
+      "static/chunks/webpack-7d5521686900c612.js",
+      "static/chunks/fd9d1056-6c27ba014927187e.js",
+      "static/chunks/7023-66abad573ba752bd.js",
+      "static/chunks/main-app-a3806fa61bc3b98e.js",
+      "static/chunks/7138-32b7c82158d9ee40.js",
+      "static/chunks/8173-8309472a42f97c7e.js",
+      "static/chunks/app/(marketing)/blog/what-is-social-media-marketing/page-b782c779bfd392a8.js"
+    ],
     "/(marketing)/blog/what-is-ai-anyway/page": [
       "static/chunks/webpack-7d5521686900c612.js",
       "static/chunks/fd9d1056-6c27ba014927187e.js",
@@ -222,12 +222,15 @@
       "static/chunks/8173-8309472a42f97c7e.js",
       "static/chunks/app/(marketing)/blog/what-is-ai-anyway/page-98e658b1e1b1526b.js"
     ],
-    "/(marketing)/contact/page": [
+    "/(marketing)/blog/page": [
       "static/chunks/webpack-7d5521686900c612.js",
       "static/chunks/fd9d1056-6c27ba014927187e.js",
       "static/chunks/7023-66abad573ba752bd.js",
       "static/chunks/main-app-a3806fa61bc3b98e.js",
-      "static/chunks/app/(marketing)/contact/page-a78c7effad614c81.js"
+      "static/chunks/7138-32b7c82158d9ee40.js",
+      "static/chunks/8173-8309472a42f97c7e.js",
+      "static/chunks/4868-0958013315c1f95c.js",
+      "static/chunks/app/(marketing)/blog/page-00b176ac323450a6.js"
     ],
     "/(marketing)/features/page": [
       "static/chunks/webpack-7d5521686900c612.js",
@@ -239,16 +242,23 @@
       "static/chunks/f7333993-ab25cc9f0a8a2e46.js",
       "static/chunks/eec3d76d-8a9ed430bcf0df32.js",
       "static/chunks/8173-8309472a42f97c7e.js",
-      "static/chunks/4868-58edd0bd42a74b10.js",
-      "static/chunks/8597-98ce1596fd4cc719.js",
+      "static/chunks/4868-0958013315c1f95c.js",
+      "static/chunks/8597-7a439f23908e2e05.js",
       "static/chunks/192-a64dc373ab769346.js",
       "static/chunks/3120-3d30c1ba212225b1.js",
-      "static/chunks/6057-f6c64db379e1a307.js",
+      "static/chunks/6057-f6bf70b1dac8e3ef.js",
       "static/chunks/4662-87ffe199eca8eead.js",
       "static/chunks/1164-1530161612b3e5e5.js",
-      "static/chunks/7910-e8fa7d6877a668e9.js",
+      "static/chunks/7910-2aa5c5a14baf1a10.js",
       "static/chunks/5906-736ddae72a88a4d4.js",
       "static/chunks/app/(marketing)/features/page-a37394e26dade317.js"
+    ],
+    "/(marketing)/contact/page": [
+      "static/chunks/webpack-7d5521686900c612.js",
+      "static/chunks/fd9d1056-6c27ba014927187e.js",
+      "static/chunks/7023-66abad573ba752bd.js",
+      "static/chunks/main-app-a3806fa61bc3b98e.js",
+      "static/chunks/app/(marketing)/contact/page-a78c7effad614c81.js"
     ],
     "/(marketing)/pricing/page": [
       "static/chunks/webpack-7d5521686900c612.js",
@@ -261,23 +271,13 @@
       "static/chunks/f7333993-ab25cc9f0a8a2e46.js",
       "static/chunks/7138-32b7c82158d9ee40.js",
       "static/chunks/8173-8309472a42f97c7e.js",
-      "static/chunks/4868-58edd0bd42a74b10.js",
-      "static/chunks/8597-98ce1596fd4cc719.js",
+      "static/chunks/4868-0958013315c1f95c.js",
+      "static/chunks/8597-7a439f23908e2e05.js",
       "static/chunks/192-a64dc373ab769346.js",
-      "static/chunks/6057-f6c64db379e1a307.js",
+      "static/chunks/6057-f6bf70b1dac8e3ef.js",
       "static/chunks/4662-87ffe199eca8eead.js",
-      "static/chunks/7910-e8fa7d6877a668e9.js",
+      "static/chunks/7910-2aa5c5a14baf1a10.js",
       "static/chunks/app/(marketing)/pricing/page-513d4bdf1fc8c702.js"
-    ],
-    "/(marketing)/blog/page": [
-      "static/chunks/webpack-7d5521686900c612.js",
-      "static/chunks/fd9d1056-6c27ba014927187e.js",
-      "static/chunks/7023-66abad573ba752bd.js",
-      "static/chunks/main-app-a3806fa61bc3b98e.js",
-      "static/chunks/7138-32b7c82158d9ee40.js",
-      "static/chunks/8173-8309472a42f97c7e.js",
-      "static/chunks/4868-58edd0bd42a74b10.js",
-      "static/chunks/app/(marketing)/blog/page-4a176345b980f7b8.js"
     ]
   }
 }

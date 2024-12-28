@@ -10,10 +10,6 @@ const navItems = [
     link: "/services",
   },
   {
-    title: "AboutUs",
-    link: "/aboutus",
-  },
-  {
     title: "Careers",
     link: "https://renocrew-solutions-llp.breezy.hr/",
   },
