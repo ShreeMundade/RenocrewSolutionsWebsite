@@ -5,7 +5,7 @@ import { Logo } from "./logo";
 import Image from "next/image";
 import Balancer from "react-wrap-balancer";
 import { BlogWithSlug } from "@/lib/blog";
-import { truncate } from "@/lib/utils";
+// import { truncate } from "@/lib/utils";
 
 export const BlogCard = ({ blog }: { blog: BlogWithSlug }) => {
   return (
@@ -30,9 +30,9 @@ export const BlogCard = ({ blog }: { blog: BlogWithSlug }) => {
         <p className="text-lg font-bold mb-4">
           <Balancer>{blog.title}</Balancer>
         </p>
-        <p className="text-left text-sm mt-2 text-muted">
+        {/* <p className="text-left text-sm mt-2 text-muted">
           {truncate(blog.description, 100)}
-        </p>
+        </p> */}
         <div className="flex space-x-2 items-center  mt-6">
           <Image
             src={blog.author.src}

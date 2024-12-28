@@ -8,7 +8,6 @@ import { FeatureIconContainer } from "@/components/features/feature-icon-contain
 import { IconClipboardText } from "@tabler/icons-react";
 import Link from "next/link";
 import Image from "next/image";
-import { truncate } from "@/lib/utils";
 import { format } from "date-fns";
 
 export const metadata: Metadata = {
@@ -59,9 +58,9 @@ export default async function ArticlesIndex() {
                   <p className="text-neutral-300 text-lg font-medium group-hover:text-white transition duration-200">
                     {blog.title}
                   </p>
-                  <p className="text-neutral-300 text-sm mt-2 max-w-xl group-hover:text-white transition duration-200">
+                  {/* <p className="text-neutral-300 text-sm mt-2 max-w-xl group-hover:text-white transition duration-200">
                     {truncate(blog.description, 80)}
-                  </p>
+                  </p> */}
 
                   <p className="text-neutral-300 text-sm mt-2 max-w-xl group-hover:text-white transition duration-200">
                     {format(new Date(blog.date), "MMMM dd, yyyy")}

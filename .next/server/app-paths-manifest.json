@@ -1,9 +1,24 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
   "/(auth)/register/page": "app/(auth)/register/page.js",
-  "/(marketing)/services/page": "app/(marketing)/services/page.js",
-  "/(marketing)/services/cloud-services/page": "app/(marketing)/services/cloud-services/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(marketing)/cloud-services/page": "app/(marketing)/cloud-services/page.js",
+  "/(marketing)/services/accounting-bookkeeping/page": "app/(marketing)/services/accounting-bookkeeping/page.js",
   "/(marketing)/page": "app/(marketing)/page.js",
+  "/(marketing)/services/cloud-services/page": "app/(marketing)/services/cloud-services/page.js",
+  "/(marketing)/services/page": "app/(marketing)/services/page.js",
+  "/(marketing)/services/software-development/page": "app/(marketing)/services/software-development/page.js",
+  "/(marketing)/services/proptech-consulting/page": "app/(marketing)/services/proptech-consulting/page.js",
+  "/(marketing)/services/virtual-cfo/page": "app/(marketing)/services/virtual-cfo/page.js",
   "/(marketing)/services/virtual-cto/page": "app/(marketing)/services/virtual-cto/page.js",
-  "/(marketing)/services/proptech-consulting/page": "app/(marketing)/services/proptech-consulting/page.js"
+  "/(marketing)/blog/top-5-llm-of-all-time/page": "app/(marketing)/blog/top-5-llm-of-all-time/page.js",
+  "/(marketing)/blog/changelog-for-2024/page": "app/(marketing)/blog/changelog-for-2024/page.js",
+  "/(marketing)/blog/what-is-ai-anyway/page": "app/(marketing)/blog/what-is-ai-anyway/page.js",
+  "/(marketing)/blog/cool-things-to-do-with-ai/page": "app/(marketing)/blog/cool-things-to-do-with-ai/page.js",
+  "/(marketing)/blog/how-companies-are-working-without-ai/page": "app/(marketing)/blog/how-companies-are-working-without-ai/page.js",
+  "/(marketing)/blog/page": "app/(marketing)/blog/page.js",
+  "/(marketing)/features/page": "app/(marketing)/features/page.js",
+  "/(marketing)/blog/what-is-social-media-marketing/page": "app/(marketing)/blog/what-is-social-media-marketing/page.js",
+  "/(marketing)/contact/page": "app/(marketing)/contact/page.js",
+  "/(marketing)/pricing/page": "app/(marketing)/pricing/page.js"
 }
