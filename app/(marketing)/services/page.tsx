@@ -22,11 +22,12 @@ const services = [
     link: "/services/cloud-services",
   },
   {
-    title: "IT Consulting",
-    description:
-      "Strategic technology consulting to help your business leverage the latest innovations and best practices.",
-    link: "/services/it-consulting",
+        title: "Accounting & Bookkeeping",
+        description:
+          "Comprehensive accounting and bookkeeping services tailored to streamline your financial management and ensure accuracy.",
+        link: "/services/accounting-bookkeeping",
   },
+      
   {
     title: "Proptech Solutions",
     description:
