@@ -84,7 +84,7 @@ export default function ProptechSolutionsPage() {
         <h1 className="text-4xl md:text-7xl font-bold text-center text-white">
           Proptech Solutions
         </h1>
-        <p className="text-white max-w-lg mx-auto text-center mt-4">
+        <p className="text-neutral-300 max-w-lg mx-auto text-center mt-4">
           Innovative technology solutions for real estate and property management
         </p>
       </WavyBackground>
@@ -100,7 +100,7 @@ export default function ProptechSolutionsPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <h2 className="text-3xl font-bold text-white text-center mb-12">Meet Our Proptech Experts</h2>
           <div className="flex flex-wrap justify-center gap-8">
-          <AnimatedTooltip items={team.map((member, index) => ({ ...member, id: index, designation: member.role }))} />
+          <AnimatedTooltip items={team.map((member, index) => ({ id: index, name: member.name, designation: member.role, image: member.image }))} />
           </div>
         </div>
       </div>
