@@ -1,4 +1,9 @@
 {
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/(marketing)/page": "app/(marketing)/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(auth)/register/page": "app/(auth)/register/page.js",
+  "/(marketing)/services/page": "app/(marketing)/services/page.js",
+  "/(marketing)/services/cloud-services/page": "app/(marketing)/services/cloud-services/page.js",
+  "/(marketing)/page": "app/(marketing)/page.js",
+  "/(marketing)/services/virtual-cto/page": "app/(marketing)/services/virtual-cto/page.js",
+  "/(marketing)/services/proptech-consulting/page": "app/(marketing)/services/proptech-consulting/page.js"
 }

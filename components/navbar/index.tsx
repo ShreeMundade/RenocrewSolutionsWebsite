@@ -4,30 +4,20 @@ import { MobileNavbar } from "./mobile-navbar";
 import { motion } from "framer-motion";
 
 const navItems = [
+
   {
-    title: "Software Solutions",
-    link: "/softwaresolutions",
+    title: "Services",
+    link: "/services",
   },
   {
-    title: "IT Consulting",
-    link: "/itconsulting",
-  },
-  {
-    title: "Cloud Consulting",
-    link: "/CloudServices",
+    title: "AboutUs",
+    link: "/aboutus",
   },
   {
     title: "Careers",
     link: "https://renocrew-solutions-llp.breezy.hr/",
   },
-  {
-    title: "Our Story",
-    link: "/softwaresolutions",
-  },
-  {
-    title: "Blog",
-    link: "/blog",
-  },
+ 
 ];
 
 export function NavBar() {
