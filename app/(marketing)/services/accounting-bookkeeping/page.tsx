@@ -29,15 +29,15 @@ const financialTools = [
 
 const testimonials = [
   {
-    quote: "Renocrew's accounting services have transformed our financial management. Highly recommended!",
-    name: "Sarah Johnson",
-    title: "CFO, TechStart Inc.",
+    quote: "Ive had the privilege of working with Shree and his team for over a year now and I cant say enough good things - he has helped my organization optimize our Yardi via creating new account trees, workflows, and reporting templates. He also made himself readily available to help with general Yardi maintenance items that has assisted me immensely so I can focus on constant process improvement. Very thankful for our partnership and couldn’t recommend enough as a Yardi advisor. ",
+    name: "  Charlie Wheeler, CPA",
+    title: "  VP of Accounting & Operations at Comunale Properties",
     image: "/placeholder.svg?height=100&width=100",
   },
   {
     quote: "Their bookkeeping expertise has saved us time and money. A game-changer for our business.",
-    name: "Michael Chen",
-    title: "Owner, Chen's Retail Group",
+    name: "  Paul Wright",
+    title: "  CEO, SignValue Inc.",
     image: "/placeholder.svg?height=100&width=100",
   },
 ]

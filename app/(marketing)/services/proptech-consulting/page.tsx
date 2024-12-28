@@ -44,27 +44,34 @@ const services = [
 
 
 const team = [
-  {
-    name: "Emma Davis",
-    designation: "Proptech Specialist",
-    image: "/placeholder.svg?height=100&width=100",
-  },
-  {
-    name: "Alex Turner",
-    designation: "Real Estate Tech Consultant",
-    image: "/placeholder.svg?height=100&width=100",
-  },
-  {
-    name: "Olivia Chen",
-    designation: "Smart Building Expert",
-    image: "/placeholder.svg?height=100&width=100",
-  },
-  {
-    name: "Ryan Patel",
-    designation: "Property Analytics Lead",
-    image: "/placeholder.svg?height=100&width=100",
-  },
-]
+    {
+        name: "Shree M.",
+        role: "CEO & Founder (Yardi Specialist)",
+        image: "/placeholder.svg?height=100&width=100",
+      },
+      {
+        name: "Shreeya M.",
+        role: "CFO (Finance)",
+        image: "/placeholder.svg?height=100&width=100",
+      },
+      {
+        name: "Rohan B.",
+        role: "CTO",
+        image: "/placeholder.svg?height=100&width=100",
+      },
+      {
+        name: "Atharv P.",
+        role: "Yardi Consultant",
+        image: "/placeholder.svg?height=100&width=100",
+      },
+      {
+        name: "Pratik I.",
+        role: "Investment Management Consultant",
+        image: "/placeholder.svg?height=100&width=100",
+      },
+      
+    ]
+
 
 const topSoftware = [
   "Yardi", "MRI Software", "AppFolio", "RealPage", "Buildium"

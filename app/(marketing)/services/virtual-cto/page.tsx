@@ -124,7 +124,7 @@ export default function VirtualCTOPage() {
     </div>
 
     <div className="py-12">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6">
+      <div className="text-white max-w-7xl mx-auto px-4 sm:px-6">
         <div className="mb-12">
           <TypewriterEffect
             words={[

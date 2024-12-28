@@ -122,7 +122,7 @@ export default function SoftwareDevelopmentPage() {
         </p>
       </div>
 
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 text-center">
+        <div className="text-white max-w-7xl mx-auto px-4 sm:px-6 text-center">
           <TypewriterEffect 
             words={[
               { text: "We" },

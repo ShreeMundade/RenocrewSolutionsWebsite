@@ -43,12 +43,53 @@ const services = [
 ]
 
 const cloudProviders = [
-  { name: "Amazon Web Services (AWS)", image: "/placeholder.svg?height=80&width=80" },
-  { name: "Microsoft Azure", image: "/placeholder.svg?height=80&width=80" },
-  { name: "Google Cloud Platform", image: "/placeholder.svg?height=80&width=80" },
-  { name: "DigitalOcean", image: "/placeholder.svg?height=80&width=80" },
-  { name: "IBM Cloud", image: "/placeholder.svg?height=80&width=80" },
-]
+    {
+      name: "Amazon Web Services (AWS)",
+      image: "data:image/svg+xml;base64," + btoa(`
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+          <rect width="100" height="100" fill="#232F3E" />
+          <text x="50" y="55" fill="#FF9900" font-size="16" font-family="Arial" text-anchor="middle">AWS</text>
+        </svg>
+      `),
+    },
+    {
+      name: "Microsoft Azure",
+      image: "data:image/svg+xml;base64," + btoa(`
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+          <rect width="100" height="100" fill="#0078D4" />
+          <text x="50" y="55" fill="white" font-size="16" font-family="Arial" text-anchor="middle">Azure</text>
+        </svg>
+      `),
+    },
+    {
+      name: "Google Cloud Platform",
+      image: "data:image/svg+xml;base64," + btoa(`
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+          <rect width="100" height="100" fill="#4285F4" />
+          <text x="50" y="55" fill="white" font-size="12" font-family="Arial" text-anchor="middle">Google Cloud</text>
+        </svg>
+      `),
+    },
+    {
+      name: "DigitalOcean",
+      image: "data:image/svg+xml;base64," + btoa(`
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+          <rect width="100" height="100" fill="#0080FF" />
+          <text x="50" y="55" fill="white" font-size="16" font-family="Arial" text-anchor="middle">DigitalOcean</text>
+        </svg>
+      `),
+    },
+    {
+      name: "IBM Cloud",
+      image: "data:image/svg+xml;base64," + btoa(`
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+          <rect width="100" height="100" fill="#054ADA" />
+          <text x="50" y="55" fill="white" font-size="16" font-family="Arial" text-anchor="middle">IBM Cloud</text>
+        </svg>
+      `),
+    },
+  ];
+  
 
 const testimonials = [
   {
