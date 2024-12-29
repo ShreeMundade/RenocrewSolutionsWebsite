@@ -52,20 +52,20 @@ const testimonials = [
   {
     quote: "Renocrew Solutions transformed our business with their innovative software solutions.",
     name: "  Marteen Fuger",
-    title: "  Cofoundr, Runnr.ai",
-    image: "/placeholder.svg?height=100&width=100",
+    title: "  Cofounder, Runnr.ai",
+    image: "./clients/maarten.jpeg",
   },
   {
     quote: "Their cloud expertise helped us scale efficiently and securely.",
     name: "  Steven Olimans",
     title: "  CTO, Runnr.ai",
-    image: "/placeholder.svg?height=100&width=100",
+    image: "./clients/steven.jpeg",
   },
   {
     quote: "The virtual CFO service provided invaluable financial guidance.",
     name: "  Paul Wright",
     title: "  CEO, SignValue Inc.",
-    image: "/placeholder.svg?height=100&width=100",
+    image: "./clients/paul.jpeg",
   },
 ]
 

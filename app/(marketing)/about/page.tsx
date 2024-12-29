@@ -46,28 +46,28 @@ const companyValues = [
 
 const teamMembers = [
   {
-    name: "Shree m.",
+    name: "Shree",
     role: "CEO & Founder",
     image: "/placeholder.svg?height=100&width=100",
   },
   {
-    name: "Rohan B.",
+    name: "Rohan",
     role: "CTO",
     image: "/placeholder.svg?height=100&width=100",
   },
   {
-    name: "Pratik C.",
+    name: "Pratik",
     role: "Data Engineer",
     image: "/placeholder.svg?height=100&width=100",
   },
  
   {
-    name: "Manish Patil",
+    name: "Manish",
     role: "UX Designer",
     image: "/placeholder.svg?height=100&width=100",
   },
   {
-    name: "Mohan P.",
+    name: "Mohan ",
     role: "Data Scientist",
     image: "/placeholder.svg?height=100&width=100",
   },
@@ -75,30 +75,31 @@ const teamMembers = [
 
 const milestones = [
   {
-    year: "2015",
+    year: "2020",
     title: "Renocrew Founded",
     description: "Started as a small team of passionate developers and IT enthusiasts.",
   },
   {
-    year: "2017",
-    title: "Expansion of Services",
+    year: "2021",
+    title: "Proptech Sector",
+    description: "Worked with various Partners to Integrate PMS Systems.",
+  },
+  {
+    year: "2022",
+    title: "Incorported and introduced new offerings",
     description: "Introduced cloud solutions and IT consulting to our service offerings.",
   },
   {
-    year: "2019",
-    title: "100th Client Milestone",
-    description: "Celebrated serving our 100th client across various industries.",
-  },
-  {
-    year: "2021",
-    title: "Global Reach",
-    description: "Expanded operations to serve clients in over 20 countries.",
-  },
-  {
     year: "2023",
-    title: "Innovation Lab Launch",
-    description: "Opened our state-of-the-art innovation lab to drive cutting-edge solutions.",
+    title: "Expansion of Services & 12th Client Milestone",
+    description: "Celebrated serving our 12th client across various industries.",
   },
+  {
+    year: "2024",
+    title: "Global Reach",
+    description: "Expanded operations to serve clients in over 6+ countries.",
+  },
+
 ]
 
 export default function AboutPage() {
