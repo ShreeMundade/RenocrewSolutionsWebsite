@@ -51,11 +51,6 @@ const teamMembers = [
     image: "/placeholder.svg?height=100&width=100",
   },
   {
-    name: "Shreeya M.",
-    role: "CFO",
-    image: "/placeholder.svg?height=100&width=100",
-  },
-  {
     name: "Rohan B.",
     role: "CTO",
     image: "/placeholder.svg?height=100&width=100",
@@ -65,18 +60,14 @@ const teamMembers = [
     role: "Data Engineer",
     image: "/placeholder.svg?height=100&width=100",
   },
-  {
-    name: "Sanskar M.",
-    role: "Project Manager",
-    image: "/placeholder.svg?height=100&width=100",
-  },
+ 
   {
     name: "Manish Patil",
     role: "UX Designer",
     image: "/placeholder.svg?height=100&width=100",
   },
   {
-    name: "Mohan Papasani",
+    name: "Mohan P.",
     role: "Data Scientist",
     image: "/placeholder.svg?height=100&width=100",
   },
