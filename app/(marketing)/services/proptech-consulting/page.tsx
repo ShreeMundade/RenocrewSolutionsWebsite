@@ -50,22 +50,17 @@ const team = [
         image: "/placeholder.svg?height=100&width=100",
       },
       {
-        name: "Shreeya M.",
-        role: "CFO (Finance)",
-        image: "/placeholder.svg?height=100&width=100",
-      },
-      {
-        name: "Rohan B.",
+        name: "Rohan",
         role: "CTO",
         image: "/placeholder.svg?height=100&width=100",
       },
       {
-        name: "Atharv P.",
+        name: "Atharv",
         role: "Yardi Consultant",
         image: "/placeholder.svg?height=100&width=100",
       },
       {
-        name: "Pratik I.",
+        name: "Pratik",
         role: "Investment Management Consultant",
         image: "/placeholder.svg?height=100&width=100",
       },
