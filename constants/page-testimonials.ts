@@ -9,36 +9,29 @@ export const testimonials: Testimonial[] = [
     name: "Charlie Wheeler",
     quote:
       "Shree and his team demonstrated exceptional Yardi expertise. They understood my needs as a novice Yardi administrator and anticipated future challenges before they even arose. Their communication and efficiency were top-notch, making the entire process seamless. I highly recommend them for Yardi projects.",
-    src: "https://i.pravatar.cc/150?img=1",
-    designation: "Yardi Administrator",
+    src: "/clients/charlie.jpeg",
+    designation: "VP of Accounting & Operations at Comunale Properties",
   },
   {
     name: "Steven Olimans",
     quote:
       "Working with Shree on the Mews API integration was a great experience. His dedication and technical skills were evident throughout the project. The final product exceeded expectations, and Shree was always available for questions and clarifications. Highly recommended!",
-    src: "https://i.pravatar.cc/150?img=2",
-    designation: "Tech Lead",
+    src: "/clients/steven.jpeg",
+    designation: "Co-founder & CTO - Runnr.ai",
   },
   {
     name: "Marteen Fugers",
     quote:
       "The Stripe payment integration was seamless, and Shree's technical skills shone through in delivering exactly what was required. Communication was prompt and professional. I would gladly work with him again on future projects.",
-    src: "https://i.pravatar.cc/150?img=3",
-    designation: "Payments Specialist",
-  },
-  {
-    name: "Steven Olimans",
-    quote:
-      "Shrees team expertly handled our Oracle Opera PMS integration, exceeding our expectations. The integration not only streamlined our internal processes but also improved the guest experience. Their attention to detail and commitment were impressive, and the collaboration was a huge success.",
-    src: "https://i.pravatar.cc/150?img=4",
-    designation: "Hospitality Manager",
+    src: "/public/clients/maarten.jpeg",
+    designation: "Co-founder and CPO at Runnr.ai",
   },
   {
     name: "Muly Oved",
     quote:
       "Rohan from Shrees team did a fantastic job on the Stardekk integration. His ability to work with the API and deliver a smooth solution made the process effortless. The certification process was handled professionally, and everything worked perfectly on delivery.",
     src: "https://i.pravatar.cc/150?img=5",
-    designation: "Project Manager",
+    designation: "Co-Founder and CTO at Cube9",
   },
   {
     name: "Abraham Garcia",
@@ -52,21 +45,21 @@ export const testimonials: Testimonial[] = [
     quote:
       "The cloud consultation services provided by Renocrew Solutions were outstanding. They helped us architect and deploy a robust multi-cloud strategy, utilizing both AWS and Azure. Their expertise in cloud infrastructure made the entire process flawless, ensuring our systems are highly scalable and secure.",
     src: "https://i.pravatar.cc/150?img=7",
-    designation: "CTO",
+    designation: "Engineering Manager",
   },
   {
     name: "Shunji Sano",
     quote:
       "Shrees expertise in Yardi API integration helped us streamline our property management operations. The integration was smooth, and Shree’s team worked closely with us to ensure all functionalities were perfectly aligned with our business needs. Their professionalism and attention to detail were impressive.",
     src: "https://i.pravatar.cc/150?img=8",
-    designation: "Property Management Director",
+    designation: "Web3 Developer",
   },
   {
     name: "Adrienne Hobbs",
     quote:
       "We engaged Renocrew Solutions for Azure consultation, and the results were fantastic. They provided a clear roadmap, optimized our cloud resources, and significantly reduced our infrastructure costs. Their knowledge of the Azure ecosystem is unmatched, and their support was highly responsive throughout.",
     src: "https://i.pravatar.cc/150?img=9",
-    designation: "Cloud Operations Lead",
+    designation: "Salesforece TAM",
   },
   {
     name: "Gladys Gascon",

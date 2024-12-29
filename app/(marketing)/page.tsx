@@ -1,6 +1,6 @@
 import { AmbientColor } from "@/components/ambient-color";
 import { CTA } from "@/components/cta";
-import { FAQs } from "@/components/faqs";
+import { FAQs, FrequentlyAskedQuestionsAccordion } from "@/components/faqs";
 import { Features } from "@/components/features";
 import { Hero } from "@/components/hero";
 import { Testimonials } from "@/components/testimonials";
@@ -24,7 +24,7 @@ export default function Home() {
           and enterprises.
         </Subheading>
         <PricingGrid /> */} 
-        <FAQs />
+        <FrequentlyAskedQuestionsAccordion />
       {/* </div> */}
       <CTA />
     </div>
