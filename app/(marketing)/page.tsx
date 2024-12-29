@@ -1,6 +1,6 @@
 import { AmbientColor } from "@/components/ambient-color";
 import { CTA } from "@/components/cta";
-import { FAQs, FrequentlyAskedQuestionsAccordion } from "@/components/faqs";
+import { FrequentlyAskedQuestionsAccordion } from "@/components/faqs";
 import { Features } from "@/components/features";
 import { Hero } from "@/components/hero";
 import { Testimonials } from "@/components/testimonials";
